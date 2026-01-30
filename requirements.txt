@@ -1,1 +1,4 @@
 pdfminer
+faiss-cpu
+langchain_community
+dashscope
